@@ -1,0 +1,8 @@
+streamlit
+torch
+transformers
+pytorch-crf
+numpy
+sentencepiece
+textblob
+emoji
