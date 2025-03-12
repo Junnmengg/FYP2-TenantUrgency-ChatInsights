@@ -1,4 +1,4 @@
-# FYP2-TenantUrgency-ChatInsights
+# FYP2-TenantUrgencyChatInsights
 
 ### MWE Prediction
 - pip install streamlit
